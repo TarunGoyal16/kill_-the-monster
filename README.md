@@ -1,1 +1,2 @@
-# kill_-the-monster
+# p5.play-boilerplate
+Boiler plate for p5.play
